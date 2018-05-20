@@ -1,4 +1,0 @@
-05d1ea80484f90c592f18c59d9096e457fffd96358442b9e6d84de01f0a7be98 *config.seed
-1cd002478dbf453b80ab8a2fd690081aae3f91da53a0f78279a4985a6c48bac5 *openwrt-ipq806x-device-meraki-mr33.manifest
-2d34db52e4b5982aa4c272d6861444e30dce5f7492425192ecc1d57d43e1bd78 *openwrt-ipq806x-meraki_mr33-initramfs-fit-uImage.itb
-9f51eca79aec5762152bdc2978ff1b23b26d173de568d1108d3fd2cc812987cc *openwrt-ipq806x-meraki_mr33-squashfs-sysupgrade.bin
